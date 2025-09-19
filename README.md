@@ -53,7 +53,6 @@
                 </div>
             </div>
             </div>
-            
         </div>
         <div class="main-content">
             <div class="sticky-nav">
@@ -65,12 +64,8 @@
                 <button class="badge nav-items hide">Explore Premium</button>
                 <button class="badge nav-items dark-badge"><i class="fa-solid fa-circle-arrow-down" style="margin-right: 5px;"></i>Install App</button>
                 <i class="fa-solid fa-user nav-items"></i>
-               </div>
-                
+               </div> 
             </div>
-           
-
-
                 <h2>Recently Played</h2>
                 <div class="card-container">
                     <div class="card">
@@ -79,7 +74,6 @@
                     <p class="card-info">Your daily updates of the most played...</p>
                 </div>
             </div>
-       
             <h2>Trending now near you</h2>
                 <div class="card-container">
                     <div class="card">
@@ -87,32 +81,27 @@
                     <p class="card-title">Top 50 - Global</p>
                     <p class="card-info">Your daily updates of the most played...</p>
                 </div>
-              
                     <div class="card">
                     <img src="./assets/card3img.jpeg" class="card-img">
                     <p class="card-title">Top 50 - Global</p>
                     <p class="card-info">Your daily updates of the most played...</p>
                 </div>
-                
                     <div class="card">
                     <img src="./assets/card4img.jpeg" class="card-img">
                     <p class="card-title">Top 50 - Global</p>
                     <p class="card-info">Your daily updates of the most played...</p>
                 </div>
-               
                     <div class="card">
                     <img src="./assets/card3img.jpeg" class="card-img">
                     <p class="card-title">Top 50 - Global</p>
                     <p class="card-info">Your daily updates of the most played...</p>
                 </div>
-                
                     <div class="card">
                     <img src="./assets/card4img.jpeg" class="card-img">
                     <p class="card-title">Top 50 - Global</p>
                     <p class="card-info">Your daily updates of the most played...</p>
                 </div>
             </div>
-
             <h2>Featured Charts</h2>
                 <div class="card-container">
                     <div class="card">
